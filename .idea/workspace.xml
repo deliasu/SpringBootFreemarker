@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="176f7ae2-7e1e-4b5f-bfa7-e0b2ed71cf6e" name="Default Changelist" comment="" />
+    <list default="true" id="176f7ae2-7e1e-4b5f-bfa7-e0b2ed71cf6e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freemarkerdemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/csdcodes/controller/FreeMarkerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/csdcodes/controller/FreeMarkerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/freemarker/index.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/freemarker/index.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/csdcodes/FreemarkerDemoApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/net/csdcodes/FreemarkerDemoApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/csdcodes/controller/FreeMarkerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/net/csdcodes/controller/FreeMarkerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/csdcodes/utils/Resource.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/net/csdcodes/utils/Resource.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +29,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,6 +40,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1TOYrBEOhdmR4ZSsWNASeRjjqHu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -30,8 +48,10 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -76,11 +96,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573332804949</updated>
-      <workItem from="1573332808763" duration="8245000" />
+      <workItem from="1573332808763" duration="11470000" />
+      <workItem from="1573371146043" duration="94000" />
+      <workItem from="1574837711721" duration="2463000" />
+      <workItem from="1575716241539" duration="664000" />
+      <workItem from="1575893300300" duration="75000" />
+      <workItem from="1575895880090" duration="656000" />
+      <workItem from="1585476025666" duration="324000" />
+      <workItem from="1585476797107" duration="3347000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -11,6 +11,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * @author csdcodes.net
+ */
 @Controller
 @RequestMapping("/ftl")
 public class FreeMarkerController {
@@ -43,4 +46,5 @@ public class FreeMarkerController {
         }
         return list;
     }
+
 }
